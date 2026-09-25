@@ -1,22 +1,6 @@
-Self Exercise/Exploration of Array and ArrayList
 
 ---
 
-## 📌 Submission Format (Format Balasan Diskusi)
-
-Copy and fill this format when submitting your assignment to the Berajah LMS forum:
-
-```text
-NIM                    : [Isi NIM Anda di sini / ضع رقمك الجامعي هنا]
-Name                   : [Isi Nama Lengkap Anda / ضع اسمك الكامل هنا]
-GitHub Repository Link : [https://github.com/username/repository-name]
-```
-
----
-
-## 📖 Project Overview (نظرة عامة على المشروع)
-
-This repository contains the complete implementation and exploration of **Arrays** and **ArrayLists** in Java, based on slides 26 through 31 of the PBO 4 lecture material. 
 
 The project includes:
 1. **`Account.java`**: Implements bank account logic (deposit, withdraw, balance inquiry) with strict condition checking (Slide 27, 28).
